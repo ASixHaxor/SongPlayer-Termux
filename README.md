@@ -8,26 +8,15 @@ Play musik via termux 🎧✨
 
 
 <details open>
-  <summary><strong> Install Package + Run Script (AmmarrBN)</strong></summary>
+  <summary><strong> Install Package + Run Script (ASixHaxor)</strong></summary>
 
   ```bash
   pkg update && pkg upgrade
   pkg install nano
   pkg install git
   pkg install python
-  git clone https://github.com/AmmarrBN/Defacer
-  cd Defacer
-  bash deface.sh
-  ```
-  </details>
-
-#### KELEBIHAN 📍
-| Kelebihan | Check |
-|--------|--------|
-| **Live Target** |[✔️](https://github.com/AmmarrBN) |
-| **Free File Html** |[✔️](https://github.com/AmmarrBN) |
-| **Simple** |[✔️](https://github.com/AmmarrBN) |
-| **Subscribe** |[Here](https://youtube.com/channel/UCyxWbQIfP1ewwQou-gqZ2Iw) |
----------
-
-<li><code>Get Token <a href="https://karyawan.co.id/GXENAwM46W">key</a></code></li>
+  git clone https://github.com/ASixHaxor/SongPlayer-Termux.git
+  cd SongPlayer
+  chmod +x setup.sh
+  chmod +x run.sh
+  ./run.sh
