@@ -1,9 +1,6 @@
 #!/bin/bash
 
-# ==========================================
-# KONFIGURASI NAMA FILE UTAMA & DIREKTORI
-# ==========================================
-ITEM_DIR="$HOME/SongPlayer/item"
+ITEM_DIR="$HOME/SongPlayer-Termux/item"
 PLAYLIST_DIR="$ITEM_DIR/playlist"
 
 # Cari file play.sh di dalam direktori item
