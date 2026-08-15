@@ -15,7 +15,7 @@ Play musik via termux 🎧✨
   pkg install nano
   pkg install git
   pkg install python
-  git clone https://github.com/ASixHaxor/SongPlayer-Termux.git
+  git clone https://github.com/ASixHaxor/SongPlayer-Termux
   cd SongPlayer
   chmod +x setup.sh
   chmod +x run.sh
