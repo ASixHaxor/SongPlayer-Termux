@@ -19,4 +19,5 @@ Play musik via termux 🎧✨
   cd SongPlayer
   chmod +x setup.sh
   chmod +x run.sh
+  ./setup.sh
   ./run.sh
