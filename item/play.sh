@@ -24,10 +24,10 @@ EXIT_TIMER=0
 choice=""
 PLAYING_CODE=""
 
-DIRS="/data/data/com.termux/files/home/SongPlayer/item/playlist"
-BANNER_DIR="/data/data/com.termux/files/home/SongPlayer/item/banners"
-CONFIG_BANNER="/data/data/com.termux/files/home/SongPlayer/item/.current_banner"
-LYRICS_SCRIPT="$HOME/SongPlayer/item/lirik_ascii.py"
+DIRS="/data/data/com.termux/files/home/SongPlayer-Termux/item/playlist"
+BANNER_DIR="/data/data/com.termux/files/home/SongPlayer-Termux/item/banners"
+CONFIG_BANNER="/data/data/com.termux/files/home/SongPlayer-Termux/item/.current_banner"
+LYRICS_SCRIPT="$HOME/SongPlayer-Termux/item/lirik_ascii.py"
 
 TMP_DIR="${PREFIX:-/data/data/com.termux/files/usr}/tmp"
 mkdir -p "$TMP_DIR"
