@@ -39,6 +39,6 @@ echo -e "${GRAY}╰────────────────────�
 
 echo -e "${CYAN}Langkah selanjutnya:${NC}"
 echo -e "${BOLD}1. Masukkan file lagu (.mp3 / .flac / .m4a) ke dalam folder:"
-echo -e "   ${GREEN}${BOLD}~/SongPlayer/item/playlist/${NC}"
+echo -e "   ${GREEN}${BOLD}~/SongPlayer-Termux/item/playlist/${NC}"
 echo -e "${BOLD}2. Jika tidak mengerti cara memasukan music,bisa melihat video berikut"
 echo -e "${BOLD}LINK${GRAY}${BOLD} : ${NC}${GREEN}${BOLD}https://c.top4top.io/m_3878fd2qg0.mp4"
