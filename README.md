@@ -14,8 +14,7 @@ Play musik via termux 🎧✨
   pkg update && pkg upgrade
   pkg install nano
   pkg install git
-  pkg install jq ossp-uuid ncurses-utils nodejs
-  npm install -g bash-obfuscate
+  pkg install python
   git clone https://github.com/AmmarrBN/Defacer
   cd Defacer
   bash deface.sh
